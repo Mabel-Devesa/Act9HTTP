@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Activitat9_HTTP</string>
+    <string name="url">URL a descargar:</string>
+    <string name="button">DESCARGAR</string>
+</resources>
